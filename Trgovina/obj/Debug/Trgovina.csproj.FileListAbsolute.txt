@@ -1,0 +1,40 @@
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\bin\Debug\Trgovina.exe.config
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\bin\Debug\Trgovina.exe
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\bin\Debug\Trgovina.pdb
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\obj\Debug\Trgovina.csprojResolveAssemblyReference.cache
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\obj\Debug\Trgovina.Admin.resources
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\obj\Debug\Trgovina.Form1.resources
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\obj\Debug\Trgovina.Properties.Resources.resources
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.GenerateResource.Cache
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\obj\Debug\Trgovina.exe
+E:\Preuzimanja\Projekt-Trgovina\Projekt\Trgovina\Trgovina\obj\Debug\Trgovina.pdb
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\bin\Debug\Trgovina.exe.config
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\obj\Debug\Trgovina.exe
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\obj\Debug\Trgovina.pdb
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\bin\Debug\Trgovina.exe
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\bin\Debug\Trgovina.pdb
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\obj\Debug\Trgovina.csprojResolveAssemblyReference.cache
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\obj\Debug\Trgovina.Admin.resources
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\obj\Debug\Trgovina.Form1.resources
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\obj\Debug\Trgovina.Properties.Resources.resources
+E:\Dokumenti\Trgovina\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.GenerateResource.Cache
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\bin\Debug\Trgovina.exe.config
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.exe
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.pdb
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\bin\Debug\Trgovina.exe
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\bin\Debug\Trgovina.pdb
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.csprojResolveAssemblyReference.cache
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.Admin.resources
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.Form1.resources
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.Properties.Resources.resources
+D:\JURINHO\pmf\diplomski studij-RIM\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.GenerateResource.Cache
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\bin\Debug\Trgovina.exe.config
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.exe
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.pdb
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\bin\Debug\Trgovina.exe
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\bin\Debug\Trgovina.pdb
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.csprojResolveAssemblyReference.cache
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.Admin.resources
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.Form1.resources
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.Properties.Resources.resources
+D:\JURINHO\pmf\diplomski studij-RIM\3.semestar\RP3\Projekt\Trgovina-zadnja-verzija\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.GenerateResource.Cache
